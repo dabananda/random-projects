@@ -1,0 +1,55 @@
+*
+!.gitignore
+!**/
+!*.c
+!*.cpp
+!*.java
+!*.py
+!*.js
+!pre-compile_all_cpp_header_files.txt
+!vs_code_custom_settings_for_programming.json
+!sublime_custom_settings_for_programming.json
+!*.sublime-build
+!*.sublime-snippet
+!compile-and-run-cpp-in-cmd.txt
+
+debug.cpp
+test.cpp
+test.o
+test.exe
+input.txt
+output.txt
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
